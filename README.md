@@ -14,8 +14,8 @@
     - [Assignment 02](./Assignments/Team%20Member%201/Assignment-02/AthistaVignesh_Assignment_2.ipynb)
 #### Team Member 2
 - Bharath Kumar K
-    - [Assignment 01](./Assignments/Team%20Member%202/Assignment-02/BharathKumar_Assignment%201.ipynb)
-    - [Assignment 02](./Assignments/Team%20Member%202/Assignment-02/BharathKumar_Assignment%201.ipynb)
+    - [Assignment 01](./Assignments/Team%20Member%202/Assignment-01/BharathKumar_Assignment_1.ipynb)
+    - [Assignment 02](./Assignments/Team%20Member%202/Assignment-02/BharathKumar_Assignment%202.ipynb)
 #### Team Member 3
 - Bharathwaj M V
     - [Assignment 01](.)
