@@ -14,6 +14,7 @@
     - [Assignment 01](./Assignments/Team%20Member%201/Assignment-01/AthistaVignesh_Assignment_1.ipynb)
     - [Assignment 02](./Assignments/Team%20Member%201/Assignment-02/AthistaVignesh_Assignment_2.ipynb)
     - [Assignment 03](./Assignments/Team%20Member%201/Assignment-03/AthistaVignesh_Assignment_3.ipynb)
+    - [Assignment 04](./Assignments/Team%20Member%201/Assignment-04/AthistaVignesh_Assignment_4.ipynb)
 #### Team Member 2
 - Bharath Kumar K
     - [Assignment 01](./Assignments/Team%20Member%202/Assignment-01/BharathKumar_Assignment_1.ipynb)
@@ -31,6 +32,9 @@
     - [Ideation](./Project%20Design%20%26%20Planning/Ideation%20Phase/Ideate.pdf)
     - [Problem Statement](./Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)
 - Project Design Phase 1
+    - [Problem Solution](./Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Copy%20of%20Problem_solution_fit%20Sample%20Template%20-%20Problem_solution_fit.pdf)
+    - [Proposed Solution](./Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Proposed%20Solution.docx%20-%20Proposed%20Solution.docx.pdf)
+    - [Solution Architecture](./Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/Solution%20Architecture%20-%20Solution%20Architecture.pdf)
 - Project Design Phase 2
 - Project Planning
 
