@@ -11,6 +11,7 @@
     - [Assignment 01](./Assignments/Team%20Lead/Assignment-01/JayaShravan_Assignment_1.ipynb)
     - [Assignment 02](./Assignments/Team%20Lead/Assignment-02/JayaShravan_Assignment%202.ipynb)
     - [Assignment 03](./Assignments/Team%20Lead/Assignment-03/JayaShravan_Assignment_3.ipynb)
+    - [Assignment 04](./Assignments/Team%20Lead/Assignment-04.ipynb)
 #### Team Member 1
 - Athista Vignesh P S
     - [Assignment 01](./Assignments/Team%20Member%201/Assignment-01/AthistaVignesh_Assignment_1.ipynb)
