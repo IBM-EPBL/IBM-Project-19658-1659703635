@@ -22,8 +22,8 @@
 - Bharath Kumar K
     - [Assignment 01](./Assignments/Team%20Member%202/Assignment-01/BharathKumar_Assignment_1.ipynb)
     - [Assignment 02](./Assignments/Team%20Member%202/Assignment-02/BharathKumar_Assignment%202.ipynb)
-    - [Assignment 02](./)
-    - [Assignment 02](./)
+    - [Assignment 03](.)
+    - [Assignment 04](.)
 #### Team Member 3
 - Bharathwaj M V
     - [Assignment 01](./Assignments/Team%20Member%203/Assignment-01/Assignment_1.ipynb)
